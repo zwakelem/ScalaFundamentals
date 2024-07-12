@@ -1,3 +1,5 @@
+package basics
+
 @main
 // String interpolation
 def stringInter(): Unit = {

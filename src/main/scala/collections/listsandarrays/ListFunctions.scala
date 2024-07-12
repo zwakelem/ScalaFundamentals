@@ -1,4 +1,4 @@
-package collections
+package collections.listsandarrays
 
 @main
 def listFunctions(): Unit = {

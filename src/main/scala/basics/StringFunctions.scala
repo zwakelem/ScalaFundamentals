@@ -1,3 +1,5 @@
+package basics
+
 @main
 def stringFunctions(): Unit = {
   val myPet = "Crocodile"

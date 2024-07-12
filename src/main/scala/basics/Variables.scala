@@ -1,3 +1,5 @@
+package basics
+
 @main
 // variables
 def variables(): Unit = {

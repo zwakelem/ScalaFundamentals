@@ -1,3 +1,5 @@
+package basics
+
 @main
 def funcName(): Unit = {
   val catName = "My cat's name is \"Fluffy\""

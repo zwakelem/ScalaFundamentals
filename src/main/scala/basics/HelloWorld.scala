@@ -1,3 +1,5 @@
+package basics
+
 // scala 3
 @main
 def hello() = print("Hello Zwakele")

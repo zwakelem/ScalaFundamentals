@@ -1,4 +1,4 @@
-package collections
+package collections.listsandarrays
 
 /**
  * Lists are immutable, ordered collection, can contain duplicates

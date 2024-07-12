@@ -1,4 +1,4 @@
-package collections
+package collections.setsandhashsets
 
 /*
  * Sets store unique elements in an undefined order

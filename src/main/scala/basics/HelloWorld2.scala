@@ -1,3 +1,5 @@
+package basics
+
 @main
 // multi-line function
 def main(): Unit = {

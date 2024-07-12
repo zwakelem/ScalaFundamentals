@@ -1,4 +1,4 @@
-package collections
+package collections.listsandarrays
 
 import scala.collection.mutable.ArrayBuffer
 
