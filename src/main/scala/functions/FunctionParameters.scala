@@ -12,7 +12,7 @@ def FunctionParams(): Unit = {
     double(i)
 
   val people = List("Mark", "Didi", "Noxy", "Thuli")
-  sayHello(people)
+  sayHello1(people)
 
   double(3, "3 * 2 = ")
   double(7)
@@ -39,7 +39,7 @@ def double(number: Int, message: String = "message is "): Unit = {
   println(s"$message $number")
 }
 
-def sayHello(people: List[String]): Unit = {
+def sayHello1(people: List[String]): Unit = {
   for(person <- people)
     println(s"Hello there $person!!")
 }

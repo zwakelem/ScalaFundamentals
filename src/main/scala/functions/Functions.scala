@@ -3,7 +3,7 @@ package functions
 @main
 def functions(): Unit = {
   for(i <- 1 to 10)
-    sayHello()
+    sayHello2()
 
   var i = 5
   while(i > 0)
@@ -11,7 +11,7 @@ def functions(): Unit = {
     i -= 1
 }
 
-def sayHello(): Unit = {
+def sayHello2(): Unit = {
   println("Hello everyone!!")
 }
 
