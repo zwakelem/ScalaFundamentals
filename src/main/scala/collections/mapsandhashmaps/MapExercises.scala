@@ -9,5 +9,5 @@ def mapExe(): Unit = {
   println(s"3 in French is ${count(3)}")
 
   count += 4 -> "quarte"
-  println(count)
+  println(count) // HashMap(1 -> un, 2 -> deux, 3 -> trois, 4 -> quarte)
 }
